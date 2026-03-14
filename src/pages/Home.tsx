@@ -20,7 +20,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white flex items-center justify-center px-6">
+    <div className="bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white py-12 flex items-center justify-center px-6">
       <div className="max-w-4xl w-full text-center space-y-10">
         {/* Logo */}
         <div className="flex justify-center">
@@ -35,7 +35,7 @@ export default function Home() {
             Expense Tracker
           </h1>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            Manage your finances smartly — track expenses, visualize insights,
+            Manage your finances smartly  track expenses, visualize insights,
             and stay in control.
           </p>
         </div>
@@ -83,14 +83,6 @@ export default function Home() {
             </p>
           </div>
         </div>
-
-        {/* User Info */}
-        <p className="mt-10 text-gray-500 text-sm">
-          Logged in as{" "}
-          <span className="font-semibold text-white">
-            {currentUser?.email}
-          </span>
-        </p>
       </div>
     </div>
   );
