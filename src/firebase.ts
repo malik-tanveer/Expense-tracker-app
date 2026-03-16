@@ -3,13 +3,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBp3iKTpZspIs_pmFZosDAwqWnbke1mMyk",
-  authDomain: "expense-tracker-5c.firebaseapp.com",
-  projectId: "expense-tracker-5c",
-  storageBucket: "expense-tracker-5c.firebasestorage.app",
-  messagingSenderId: "209414624145",
-  appId: "1:209414624145:web:e05e6146c8aa8b42498030",
-  measurementId: "G-R4TTCJ1RY1"
+ apiKey: "AIzaSyBuIAvS4Xy3rkTkdiqeLqncekM2p71_Ca0",
+  authDomain: "expense-tracker-b28ca.firebaseapp.com",
+  projectId: "expense-tracker-b28ca",
+  storageBucket: "expense-tracker-b28ca.firebasestorage.app",
+  messagingSenderId: "1003348563253",
+  appId: "1:1003348563253:web:c14a2d6d5811a38edb287c",
+  measurementId: "G-9G8PX7DRG2"
 
 };
 
