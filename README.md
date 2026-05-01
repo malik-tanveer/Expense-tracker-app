@@ -82,47 +82,7 @@ Download reports in:
 * **Backend:** Firebase
 * **Database:** Firebase Firestore
 * **Hosting:** Firebase Hosting
-* **Charts:** Chart libraries for reports
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/malik-tanveer/expense-tracker.git
-```
-
-Go to project folder:
-
-```bash
-cd expense-tracker
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the project:
-
-```bash
-npm run dev
-```
-
----
-
-## 🌐 Deployment
-
-This project is deployed using **Firebase Hosting**.
-
-To deploy:
-
-```bash
-firebase deploy
-```
+* **Charts:** Chart.js
 
 ---
 
@@ -146,13 +106,3 @@ The dashboard provides a quick overview of:
 * Expense reminders
 
 ---
-
-## 👨‍💻 Author
-
-Developed by **Shabeer Awan**
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
